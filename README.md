@@ -1,4 +1,4 @@
-# Flutter
-This is my first git repository
-<br>
+# App Develpoment Assignments
 author - Kartik Shinde
+<br>
+This repo contains all the App Development Assignments.
